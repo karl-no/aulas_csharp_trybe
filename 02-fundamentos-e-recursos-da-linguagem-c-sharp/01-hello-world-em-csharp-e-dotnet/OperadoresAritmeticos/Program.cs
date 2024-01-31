@@ -22,3 +22,7 @@ Console.WriteLine(g + " / " + h + " = " + result4);
 int i = 36, j = 7;
 int result5 = i % j;
 Console.WriteLine("O resto da divisão de "+i+" por "+j+" é "+result5);
+
+// Para definir a cultura ao trabalharmos com números com casas decimais, como o float
+// Desta forma, o código consegue interpretar se as casas decimais vem após '.' ou ','.
+// Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US", false);
