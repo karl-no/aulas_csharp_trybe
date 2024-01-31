@@ -1,1 +1,1 @@
-# aceleracao_csharp_trybe
+# Aulas da aceleração C# da Trybe
