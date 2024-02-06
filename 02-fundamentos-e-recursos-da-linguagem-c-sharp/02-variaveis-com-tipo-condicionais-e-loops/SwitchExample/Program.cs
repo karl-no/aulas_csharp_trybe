@@ -19,6 +19,7 @@
     }
 
     Console.WriteLine(IdentifyPolygon(Convert.ToInt32(response)));
+    // Console.WriteLine(IdentifyPolygon(canConvert));
   }
 
   public static string IdentifyPolygon(int sideCount) {
