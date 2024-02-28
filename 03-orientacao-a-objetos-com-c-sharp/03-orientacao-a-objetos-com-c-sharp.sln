@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-abstracao-e-metodos-estaticos", "01-abstracao-e-metodos-estaticos", "{D168291A-00EA-4FCD-A995-BEB08A0ACE83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploGetterESetter", "01-abstracao-e-metodos-estaticos\ExemploGetterESetter\ExemploGetterESetter.csproj", "{592F7A0F-92D5-420B-83EC-21FD71262B59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-abstracao-e-metodos-estaticos", "01-abstracao-e-metodos-estaticos\ExemploInstanciar\01-abstracao-e-metodos-estaticos.csproj", "{26818F29-986E-4EB3-9AAE-79AF19EB85F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592F7A0F-92D5-420B-83EC-21FD71262B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592F7A0F-92D5-420B-83EC-21FD71262B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592F7A0F-92D5-420B-83EC-21FD71262B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592F7A0F-92D5-420B-83EC-21FD71262B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26818F29-986E-4EB3-9AAE-79AF19EB85F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26818F29-986E-4EB3-9AAE-79AF19EB85F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26818F29-986E-4EB3-9AAE-79AF19EB85F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26818F29-986E-4EB3-9AAE-79AF19EB85F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{592F7A0F-92D5-420B-83EC-21FD71262B59} = {D168291A-00EA-4FCD-A995-BEB08A0ACE83}
+		{26818F29-986E-4EB3-9AAE-79AF19EB85F2} = {D168291A-00EA-4FCD-A995-BEB08A0ACE83}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {714389A2-7E86-4857-881E-6E4CEA95B93F}
+	EndGlobalSection
+EndGlobal
